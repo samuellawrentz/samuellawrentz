@@ -1,7 +1,7 @@
 # [Samuel Lawrentz](https://samuellawrentz.conm)
 
-<img align="left" width="37%" height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellawrentz&theme=radical&layout=compact" />
-  <img align="left" width="59%" src="https://github-readme-stats.vercel.app/api?username=samuellawrentz&hide=contribs,stars&theme=radical&show_icons=true"/> 
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellawrentz&theme=radical&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=samuellawrentz&hide=contribs,stars&theme=radical&show_icons=true"/> 
 ---
 
 
