@@ -1,4 +1,5 @@
-# [Samuel Lawrentz](https://samuellawrentz.conm)
+# [Samuel Lawrentz](https://samuellawrentz.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=samuellawrentz.samuellawrentz&left_color=green&right_color=red)
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellawrentz&theme=radical&layout=compact" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samuellawrentz&hide=contribs,stars&theme=radical&show_icons=true"/> 
