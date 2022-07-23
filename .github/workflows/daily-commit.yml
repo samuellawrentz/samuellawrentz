@@ -1,0 +1,23 @@
+name: Daily commit code
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * 6' # Runs every Week, on the midnight
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Commit code daily
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2.3.2
+      - name: Make change to text file
+        run: ../scripts/script.sh
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "samuellawrentz"
+          git config --global user.email "samuellawrentz@gmail.com"
+
+          git add -A
+          git commit -m "Commited using Samuel's clone.. With ♥️"
+          git push
