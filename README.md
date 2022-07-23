@@ -1,4 +1,5 @@
-# [Samuel Lawrentz](https://samuellawrentz.conm)
+# [Samuel Lawrentz](https://samuellawrentz.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=samuellawrentz.samuellawrentz&left_color=green&right_color=red)
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellawrentz&theme=radical&layout=compact" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samuellawrentz&hide=contribs,stars&theme=radical&show_icons=true"/> 
@@ -35,6 +36,15 @@ Worked on various web projects. Projects which had animations and a smooth user 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+## My Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+- [How I started a tech blog?](https://samuellawrentz.com/blog/how-i-started-a-tech-blog)
+- [Growing your Online Presence - 101](https://samuellawrentz.com/blog/how-to-grow-your-online-presence)
+- [How to post to Instagram using an API?](https://samuellawrentz.com/blog/instagram-api)
+- [How to Select a Random Value from an Array?](https://samuellawrentz.com/blog/random-value)
+- [Bookmarklets - No more boring tasks](https://samuellawrentz.com/blog/bookmarklets)
+<!-- BLOG-POST-LIST:END -->
 
 <!---
 samuellawerentz/samuellawerentz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
