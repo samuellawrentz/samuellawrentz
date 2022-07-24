@@ -15,7 +15,7 @@ jobs:
         uses: zhangyu1818/write-file-with@v1
         with:
           file: text.txt
-          script: test.js
+          script: ./test.js
             
       - name: Commit files
         run: |
