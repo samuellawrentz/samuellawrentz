@@ -32,10 +32,6 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ❤️❤️❤️
 
-# My Recent blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
