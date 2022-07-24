@@ -13,13 +13,13 @@ jobs:
 
       - name: Update text file
         run: |
-          echo First >> text.txt
+          echo "Commited by Samuel's clone on `date` using GitHub actions. Wanna be my friend?" >> text.txt
             
       - name: Commit files
         run: |
           git config --local user.email "samuellawrentz@gmail.com"
           git config --local user.name "samuellawrentz"
-          git commit -m "Commited by Samuel's clone" -a
+          git commit -m "Commited by Samuel's clone 👨‍💻" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
