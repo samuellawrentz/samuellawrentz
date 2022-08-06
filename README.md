@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic OG images for your Gatsby blog](https://samuellawrentz.com/blog/gatsby-dynamic-og-images)
-- [How I started a tech blog?](https://samuellawrentz.com/blog/how-i-started-a-tech-blog)
-- [Growing your Online Presence - 101](https://samuellawrentz.com/blog/how-to-grow-your-online-presence)
-- [How to post to Instagram using an API?](https://samuellawrentz.com/blog/instagram-api)
-- [How to Select a Random Value from an Array?](https://samuellawrentz.com/blog/random-value)
+- [How to cache your Gatsby site for faster builds in Github Actions?](https://samuellawrentz.com/blog/gatsby-incremental-faster-builds-github-actions/)
+- [Dynamic OG images for your Gatsby blog](https://samuellawrentz.com/blog/gatsby-dynamic-og-images/)
+- [How I started a tech blog?](https://samuellawrentz.com/blog/how-i-started-a-tech-blog/)
+- [Growing your Online Presence - 101](https://samuellawrentz.com/blog/how-to-grow-your-online-presence/)
+- [How to post to Instagram using an API?](https://samuellawrentz.com/blog/instagram-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
