@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My take on CSS Grids](https://samuellawrentz.com/blog/css-grids-examples-guide-tutorial/)
 - [Monitor your website speed using Pagespeed API and Google Sheets](https://samuellawrentz.com/blog/monitor-website-pagespeed-with-googlesheets/)
 - [How to create React Hooks? - A simple guide](https://samuellawrentz.com/blog/how-to-create-react-hooks-simple/)
 - [How to cache your Gatsby site for faster builds in Github Actions?](https://samuellawrentz.com/blog/gatsby-incremental-faster-builds-github-actions/)
 - [Dynamic OG images for your Gatsby blog](https://samuellawrentz.com/blog/gatsby-dynamic-og-images/)
-- [How I started a tech blog?](https://samuellawrentz.com/blog/how-i-started-a-tech-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
