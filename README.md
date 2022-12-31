@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend Performance Optimisation](https://samuellawrentz.com/blog/frontend-performance-optimisation-enhancement)
 - [Useful CSS Generators](https://samuellawrentz.com/blog/useful-amazing-css-tools-and-generators)
 - [You don&#39;t need these many state variables](https://samuellawrentz.com/blog/reduce-react-states-and-hooks/)
 - [My take on CSS Grids](https://samuellawrentz.com/blog/css-grids-examples-guide-tutorial/)
 - [Monitor your website speed using Pagespeed API and Google Sheets](https://samuellawrentz.com/blog/monitor-website-pagespeed-with-googlesheets/)
-- [How to create React Hooks? - A simple guide](https://samuellawrentz.com/blog/how-to-create-react-hooks-simple/)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
