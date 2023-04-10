@@ -42,6 +42,8 @@ Worked on various web projects. Projects which had animations and a smooth user 
 - [My take on CSS Grids](https://samuellawrentz.com/blog/css-grids-examples-guide-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
+## My coding activity for the past 30 days
+<a href="https://wakatime.com"><img height="400px" width="100%" src="https://wakatime.com/share/@c2883fa9-c937-4e8e-8956-e5b47d6dbf96/f22c94eb-56ce-447f-948d-8b894635d213.png" /></a>
 <!---
 samuellawerentz/samuellawerentz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
