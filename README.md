@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reviving My Website: A Tale of Tech and Determination](https://samuellawrentz.com/blog/how-i-saved-my-website-from-gatsby-screwup/)
+- [Vim is a blackhole](https://samuellawrentz.com/blog/vim-experience-nvim-dev-experience)
 - [How to Optimize React Components Using Computed Variables](https://samuellawrentz.com/blog/computed-state-in-react)
 - [Frontend Performance Optimisation](https://samuellawrentz.com/blog/frontend-performance-optimisation-enhancement)
 - [Useful CSS Generators](https://samuellawrentz.com/blog/useful-amazing-css-tools-and-generators)
-- [You don&#39;t need these many state variables](https://samuellawrentz.com/blog/reduce-react-states-and-hooks/)
-- [My take on CSS Grids](https://samuellawrentz.com/blog/css-grids-examples-guide-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
