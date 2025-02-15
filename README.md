@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Connect to Sentry MCP Server - A Developer&#39;s Guide](https://samuellawrentz.com/blog/sentry-mcp-connection/)
 - [Demystifying codebases: How to use AI to understand complex codebases easily and quickly?](https://samuellawrentz.com/blog/how-to-understand-complex-code-with-ai/)
 - [The Ten Commandments of Software Development](https://samuellawrentz.com/blog/ten-commandments-of-software-development)
 - [Things learnt from BunJS to CRA migration](https://samuellawrentz.com/blog/cra-to-vite-bunjs/)
 - [Supercharge your Git Workflow with the Jira-Git Commit VSCode Extension](https://samuellawrentz.com/blog/jira-git-commit-workflow-vscode-extension/)
-- [Enforcing coding standards via Typescript, Husky and Lint-staged](https://samuellawrentz.com/blog/coding-standards-husky-typescript-lint-staged)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
