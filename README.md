@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub&#39;s MCP Server Goes Public - A Game Changer for AI Development](https://samuellawrentz.com/blog/github-mcp-server-launch/)
 - [Vibe Coding: When AI Becomes Your Coding Bestie](https://samuellawrentz.com/blog/vibe-coding-revolution/)
 - [Connect to Sentry MCP Server - A Developer&#39;s Guide](https://samuellawrentz.com/blog/sentry-mcp-connection/)
 - [Demystifying codebases: How to use AI to understand complex codebases easily and quickly?](https://samuellawrentz.com/blog/how-to-understand-complex-code-with-ai/)
 - [The Ten Commandments of Software Development](https://samuellawrentz.com/blog/ten-commandments-of-software-development)
-- [Things learnt from BunJS to CRA migration](https://samuellawrentz.com/blog/cra-to-vite-bunjs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
