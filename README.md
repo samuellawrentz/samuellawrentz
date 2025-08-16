@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Borders on Vim LSP Hover Information &lpar;The Simple Way&rpar;](https://samuellawrentz.com/blog/vim-lsp-hover-borders/)
+- [The Magic of Smooth Scrolling: Two Lines of CSS That Transform User Experience](https://samuellawrentz.com/blog/smooth-scrolling-css-scroll-behavior/)
+- [Linear MCP Server – The AI Sidekick You Didn&#39;t Know You Needed](https://samuellawrentz.com/blog/linear-mcp-server/)
 - [GitHub&#39;s MCP Server Goes Public - A Game Changer for AI Development](https://samuellawrentz.com/blog/github-mcp-server-launch/)
 - [Vibe Coding: When AI Becomes Your Coding Bestie](https://samuellawrentz.com/blog/vibe-coding-revolution/)
-- [Connect to Sentry MCP Server - A Developer&#39;s Guide](https://samuellawrentz.com/blog/sentry-mcp-connection/)
-- [Demystifying codebases: How to use AI to understand complex codebases easily and quickly?](https://samuellawrentz.com/blog/how-to-understand-complex-code-with-ai/)
-- [The Ten Commandments of Software Development](https://samuellawrentz.com/blog/ten-commandments-of-software-development)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
