@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Seamlessly Switch Between Personal and Work GitHub Accounts on macOS](https://samuellawrentz.com/blog/git-profile-switcher/)
 - [A Minimal Ghostty Config &lpar;That Actually Makes Sense&rpar;](https://samuellawrentz.com/blog/minimal-ghostty-config/)
 - [AI Coding Revolution: How Artificial Intelligence is Changing the Way We Code](https://samuellawrentz.com/blog/ai-coding-revolution/)
 - [How to Enable Borders on Vim LSP Hover Information &lpar;The Simple Way&rpar;](https://samuellawrentz.com/blog/vim-lsp-hover-borders/)
 - [The Magic of Smooth Scrolling: Two Lines of CSS That Transform User Experience](https://samuellawrentz.com/blog/smooth-scrolling-css-scroll-behavior/)
-- [Linear MCP Server – The AI Sidekick You Didn&#39;t Know You Needed](https://samuellawrentz.com/blog/linear-mcp-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
