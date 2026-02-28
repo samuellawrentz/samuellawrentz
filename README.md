@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [You Don&#39;t Need OpenClaw — Claude Code Is Already a Personal AI Assistant](https://samuellawrentz.com/blog/you-dont-need-openclaw/)
+- [How I Turned Slack Chaos Into Linear Tickets With Claude Code](https://samuellawrentz.com/blog/claude-code-slack-linear-mcp/)
+- [How I Actually Use Claude Code — A Workflow That Works](https://samuellawrentz.com/blog/claude-code-efficiency/)
+- [Building Reusable Bun Modules — Why Bun Makes It Stupidly Easy](https://samuellawrentz.com/blog/reusable-bun-modules/)
 - [Seamlessly Switch Between Personal and Work GitHub Accounts on macOS](https://samuellawrentz.com/blog/git-profile-switcher/)
-- [A Minimal Ghostty Config &lpar;That Actually Makes Sense&rpar;](https://samuellawrentz.com/blog/minimal-ghostty-config/)
-- [AI Coding Revolution: How Artificial Intelligence is Changing the Way We Code](https://samuellawrentz.com/blog/ai-coding-revolution/)
-- [How to Enable Borders on Vim LSP Hover Information &lpar;The Simple Way&rpar;](https://samuellawrentz.com/blog/vim-lsp-hover-borders/)
-- [The Magic of Smooth Scrolling: Two Lines of CSS That Transform User Experience](https://samuellawrentz.com/blog/smooth-scrolling-css-scroll-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
