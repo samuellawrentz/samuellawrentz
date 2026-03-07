@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 Is the Year of CLIs, Skills, and APIs](https://samuellawrentz.com/blog/year-of-clis-skills-apis/)
+- [Building for Agents — When AI Becomes Your Primary User](https://samuellawrentz.com/blog/building-for-agents/)
 - [You Don&#39;t Need OpenClaw — Claude Code Is Already a Personal AI Assistant](https://samuellawrentz.com/blog/you-dont-need-openclaw/)
 - [How I Turned Slack Chaos Into Linear Tickets With Claude Code](https://samuellawrentz.com/blog/claude-code-slack-linear-mcp/)
 - [How I Actually Use Claude Code — A Workflow That Works](https://samuellawrentz.com/blog/claude-code-efficiency/)
-- [Building Reusable Bun Modules — Why Bun Makes It Stupidly Easy](https://samuellawrentz.com/blog/reusable-bun-modules/)
-- [Seamlessly Switch Between Personal and Work GitHub Accounts on macOS](https://samuellawrentz.com/blog/git-profile-switcher/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
