@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AeroSpace — Stop swiping, start switching](https://samuellawrentz.com/blog/aerospace-tiling-window-manager/)
-- [How to keep code quality high when AI writes the code](https://samuellawrentz.com/blog/ai-code-needs-a-quality-loop/)
-- [clipssh — Paste Screenshots Into Your Remote Terminal](https://samuellawrentz.com/blog/clipssh/)
-- [2026 Is the Year of CLIs, Skills, and APIs](https://samuellawrentz.com/blog/year-of-clis-skills-apis/)
-- [Building for Agents — When AI Becomes Your Primary User](https://samuellawrentz.com/blog/building-for-agents/)
+- [Ghostty Panes vs tmux Panes — When to Use Which](https://samuellawrentz.com/blog/ghostty-panes-vs-tmux/)
+- [My CLAUDE.md That Actually Works](https://samuellawrentz.com/blog/claude-md-that-works/)
+- [Ghostty + tmux — The Productivity Setup I Actually Use](https://samuellawrentz.com/blog/ghostty-tmux-productivity/)
+- [Ghostty 1.3 — Scrollback Search and My Updated Config](https://samuellawrentz.com/blog/ghostty-1-3-config/)
+- [My Neovim Config — Opinionated, Minimal, and Actually Usable](https://samuellawrentz.com/blog/minimal-neovim-config/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
