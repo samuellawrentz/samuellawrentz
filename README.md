@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code /loop — Recurring Autonomous Workflows That Actually Work](https://samuellawrentz.com/blog/claude-code-loop-command/)
+- [avante.nvim vs CodeCompanion — AI Inside Neovim in 2026](https://samuellawrentz.com/blog/neovim-ai-plugins-avante-codecompanion/)
+- [Claude Code Hooks and Subagents — The Advanced Stuff](https://samuellawrentz.com/blog/claude-code-hooks-subagents/)
 - [Ghostty Panes vs tmux Panes — When to Use Which](https://samuellawrentz.com/blog/ghostty-panes-vs-tmux/)
 - [My CLAUDE.md That Actually Works](https://samuellawrentz.com/blog/claude-md-that-works/)
-- [Ghostty + tmux — The Productivity Setup I Actually Use](https://samuellawrentz.com/blog/ghostty-tmux-productivity/)
-- [Ghostty 1.3 — Scrollback Search and My Updated Config](https://samuellawrentz.com/blog/ghostty-1-3-config/)
-- [My Neovim Config — Opinionated, Minimal, and Actually Usable](https://samuellawrentz.com/blog/minimal-neovim-config/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
