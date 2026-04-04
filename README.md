@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code /loop — Recurring Autonomous Workflows That Actually Work](https://samuellawrentz.com/blog/claude-code-loop-command/)
-- [avante.nvim vs CodeCompanion — AI Inside Neovim in 2026](https://samuellawrentz.com/blog/neovim-ai-plugins-avante-codecompanion/)
-- [Claude Code Hooks and Subagents — The Advanced Stuff](https://samuellawrentz.com/blog/claude-code-hooks-subagents/)
-- [Ghostty Panes vs tmux Panes — When to Use Which](https://samuellawrentz.com/blog/ghostty-panes-vs-tmux/)
-- [My CLAUDE.md That Actually Works](https://samuellawrentz.com/blog/claude-md-that-works/)
+- [Bun&#39;s Terminal API — Write CLI Tools Without the Boilerplate](https://samuellawrentz.com/blog/bun-terminal-api/)
+- [fzf — The One CLI Tool I Recommend to Everyone](https://samuellawrentz.com/blog/fzf-terminal-workflow-guide/)
+- [Bun Is Now Part of Anthropic — What That Actually Means for You](https://samuellawrentz.com/blog/bun-anthropic-acquisition-developer-implications/)
+- [Neovim 0.12&#39;s Built-in Plugin Manager — Should You Ditch lazy.nvim?](https://samuellawrentz.com/blog/neovim-vim-pack-vs-lazy-nvim/)
+- [Claude Can Now Control Your Mac — Here&#39;s How I&#39;m Using It](https://samuellawrentz.com/blog/claude-computer-use-cowork-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
