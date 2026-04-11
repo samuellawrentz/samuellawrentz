@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Bun&#39;s Terminal API — Write CLI Tools Without the Boilerplate](https://samuellawrentz.com/blog/bun-terminal-api/)
-- [fzf — The One CLI Tool I Recommend to Everyone](https://samuellawrentz.com/blog/fzf-terminal-workflow-guide/)
-- [Bun Is Now Part of Anthropic — What That Actually Means for You](https://samuellawrentz.com/blog/bun-anthropic-acquisition-developer-implications/)
-- [Neovim 0.12&#39;s Built-in Plugin Manager — Should You Ditch lazy.nvim?](https://samuellawrentz.com/blog/neovim-vim-pack-vs-lazy-nvim/)
-- [Claude Can Now Control Your Mac — Here&#39;s How I&#39;m Using It](https://samuellawrentz.com/blog/claude-computer-use-cowork-workflow/)
+- [LazyVim: The Neovim Distro I Wish I&#39;d Started With](https://samuellawrentz.com/blog/lazyvim-neovim-distro-2026/)
+- [Stop Burning Tokens: How I Cut My Claude Code Costs in Half](https://samuellawrentz.com/blog/claude-code-token-optimization/)
+- [The MCP Servers Worth Installing in 2026 &lpar;Frontend Dev Edition&rpar;](https://samuellawrentz.com/blog/mcp-servers-frontend-developers-2026/)
+- [Claude Code Security: AI That Scans Your Codebase Like a Security Researcher](https://samuellawrentz.com/blog/claude-code-security-scanner/)
+- [Bun&#39;s Terminal API - Write CLI Tools Without the Boilerplate](https://samuellawrentz.com/blog/bun-terminal-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
