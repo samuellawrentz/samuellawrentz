@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Glance - A Self-Hosted Alternative to Claude Artifacts](https://samuellawrentz.com/blog/glance-self-hosted-artifacts/)
 - [The Five Ways to Bring Your Boss a Problem](https://samuellawrentz.com/blog/five-ways-to-bring-your-boss-a-problem/)
 - [A Sandbox That Boots in 60ms - MicroVMs vs Containers for Untrusted Code](https://samuellawrentz.com/blog/microvm-sandboxes-untrusted-code/)
 - [Rendering Millions of Points in the Browser Without Killing the Tab](https://samuellawrentz.com/blog/rendering-millions-of-points-in-the-browser/)
 - [The Part of the Job AI Can&#39;t Grade - A Developer&#39;s Edge in the Age of AI](https://samuellawrentz.com/blog/the-part-of-the-job-ai-cant-grade/)
-- [You Can&#39;t Avoid the Hard Part - When to Take the Big Swing](https://samuellawrentz.com/blog/you-cant-avoid-the-hard-part/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
