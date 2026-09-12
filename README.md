@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Obsidian in the Terminal - I Pointed emeraldian at My 199-Note Vault](https://samuellawrentz.com/blog/emeraldian-obsidian-tui/)
+- [Interrogate What You Built Before Calling It Done - I Ran the Prompt on My Own Repo](https://samuellawrentz.com/blog/interrogate-what-you-built-before-calling-it-done/)
+- [Herdr Raised $6M. Why Would Anyone Fund a Terminal Multiplexer?](https://samuellawrentz.com/blog/herdr-6m-seed-why-agent-runtimes-get-funded/)
 - [Lighthouse 41 to 100 - Delete the Cool Thing First](https://samuellawrentz.com/blog/lighthouse-41-to-100/)
 - [Glance - A Self-Hosted Alternative to Claude Artifacts](https://samuellawrentz.com/blog/glance-self-hosted-artifacts/)
-- [The Five Ways to Bring Your Boss a Problem](https://samuellawrentz.com/blog/five-ways-to-bring-your-boss-a-problem/)
-- [A Sandbox That Boots in 60ms - MicroVMs vs Containers for Untrusted Code](https://samuellawrentz.com/blog/microvm-sandboxes-untrusted-code/)
-- [Rendering Millions of Points in the Browser Without Killing the Tab](https://samuellawrentz.com/blog/rendering-millions-of-points-in-the-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
