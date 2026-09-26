@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Approve Claude Code Permission Prompts From Slack With One Hook](https://samuellawrentz.com/blog/claude-code-approvals-in-slack/)
-- [BrowserSkill - Let the Agent Borrow a Tab Instead of Stealing Your Cookies](https://samuellawrentz.com/blog/browserskill-borrow-a-tab/)
-- [I Put &#39;Do Not Overengineer&#39; in CLAUDE.md and Measured What It Does](https://samuellawrentz.com/blog/do-not-overengineer/)
-- [Turn a Book Into Claude Code Skills - What Ten of Them Taught Me About Writing Skills](https://samuellawrentz.com/blog/book-to-claude-skills/)
-- [hmx - Terminal Mind Maps in Plain Text, and Why I Ported h-m-m to Go](https://samuellawrentz.com/blog/hmx-terminal-mind-maps/)
+- [Would You Share the Prompt? A Review Rule for AI-Written PRs](https://samuellawrentz.com/blog/share-the-prompt-test/)
+- [My Claude Code Plugins Cost 17k Tokens Before I Type a Word](https://samuellawrentz.com/blog/claude-code-plugin-token-cost/)
+- [Opus 5.5, Day One: Four Models, Two Boring Tasks, Sixteen Runs](https://samuellawrentz.com/blog/claude-opus-5-5-day-one/)
+- [Google&#39;s AX Is kubectl for Agents. Its Four Manifests Are a Checklist for the Rest of Us.](https://samuellawrentz.com/blog/google-ax-kubectl-for-agents/)
+- [Your Claude Code Bill Is 94% Cache Hits. The Rest Is Coffee Breaks.](https://samuellawrentz.com/blog/claude-code-cache-cold-starts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
