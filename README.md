@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Would You Share the Prompt? A Review Rule for AI-Written PRs](https://samuellawrentz.com/blog/share-the-prompt-test/)
-- [My Claude Code Plugins Cost 17k Tokens Before I Type a Word](https://samuellawrentz.com/blog/claude-code-plugin-token-cost/)
-- [Opus 5.5, Day One: Four Models, Two Boring Tasks, Sixteen Runs](https://samuellawrentz.com/blog/claude-opus-5-5-day-one/)
-- [Google&#39;s AX Is kubectl for Agents. Its Four Manifests Are a Checklist for the Rest of Us.](https://samuellawrentz.com/blog/google-ax-kubectl-for-agents/)
-- [Your Claude Code Bill Is 94% Cache Hits. The Rest Is Coffee Breaks.](https://samuellawrentz.com/blog/claude-code-cache-cold-starts/)
+- [Three Years of tmux, One Commit to Leave - Moving to Herdr](https://samuellawrentz.com/blog/tmux-to-herdr/)
+- [My Herdr Setup - Keybinds, Popups and Hopping Between Agents](https://samuellawrentz.com/blog/my-herdr-setup/)
+- [I Read 73 Claude Skills by Three of the Best Skill Writers. None of Them Shout.](https://samuellawrentz.com/blog/reading-the-best-claude-skills/)
+- [Make the Model Watch Its Own Frames - A Motion Graphics Test with Opus 5.5](https://samuellawrentz.com/blog/opus-watch-its-own-frames/)
+- [Openship: Self-Hosted Deploys Where the Control Plane Can Be Your Laptop](https://samuellawrentz.com/blog/openship-self-hosted-deploys/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
