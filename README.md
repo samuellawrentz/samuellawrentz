@@ -35,11 +35,11 @@ Worked on various web projects. Projects which had animations and a smooth user 
 
 ## My Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My lazygit Config - Branch Menus, Ticket Commits and a Dinosaur](https://samuellawrentz.com/blog/lazygit-config-custom-commands/)
+- [kron - I Got Tired of Cron Not Telling Me Anything](https://samuellawrentz.com/blog/kron-cron-that-tells-you-what-happened/)
+- [I Forked taskwarrior-tui Until It Felt Like Linear](https://samuellawrentz.com/blog/taskwarrior-tui-fork-linear-style/)
+- [How I Wired Claude Code Into Neovim &lpar;It&#39;s Smaller Than You Think&rpar;](https://samuellawrentz.com/blog/neovim-with-claude-code/)
 - [Three Years of tmux, One Commit to Leave - Moving to Herdr](https://samuellawrentz.com/blog/tmux-to-herdr/)
-- [My Herdr Setup - Keybinds, Popups and Hopping Between Agents](https://samuellawrentz.com/blog/my-herdr-setup/)
-- [I Read 73 Claude Skills by Three of the Best Skill Writers. None of Them Shout.](https://samuellawrentz.com/blog/reading-the-best-claude-skills/)
-- [Make the Model Watch Its Own Frames - A Motion Graphics Test with Opus 5.5](https://samuellawrentz.com/blog/opus-watch-its-own-frames/)
-- [Openship: Self-Hosted Deploys Where the Control Plane Can Be Your Laptop](https://samuellawrentz.com/blog/openship-self-hosted-deploys/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for the past 30 days
